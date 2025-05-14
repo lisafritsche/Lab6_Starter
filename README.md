@@ -7,7 +7,7 @@ Lisa Fritsche, no partner
 [View the deployed site](http://127.0.0.1:3002/index.html?imgSrc=.%2Fassets%2Fimages%2F1_spooky-ghost-cookies.jpeg&imgAlt=Test+Cookies&titleTxt=My+Test+Cookies&titleLnk=https%3A%2F%2Fexample.com&rating=5&numRatings=10&organization=Test+Bakery&lengthTime=45+min&ingredients=sugar%2C+flour%2C+butter)
 
 ## 🗂 GitHub Repository
-[https://github.com/lisafritsche/Lab6_Starter.git]
+https://github.com/lisafritsche/Lab6_Starter.git
 
 ## ✅ Features Implemented
 - Custom `<recipe-card>` web components 
